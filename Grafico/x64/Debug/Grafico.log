@@ -1,0 +1,14 @@
+﻿  condicoesMovimento.cpp
+D:\Dev\Grafico\movimentaX.hpp(17,2): warning C4091: 'typedef ': ignored on left of 'retornaJI' when no variable is declared
+  imprimirMapa.cpp
+  leArquivo.cpp
+  main.cpp
+D:\Dev\Grafico\movimentaX.hpp(17,2): warning C4091: 'typedef ': ignored on left of 'retornaJI' when no variable is declared
+  movimentaX.cpp
+D:\Dev\Grafico\movimentaX.hpp(17,2): warning C4091: 'typedef ': ignored on left of 'retornaJI' when no variable is declared
+D:\Dev\Grafico\movimentaX.cpp(63,6): warning C4101: 'linha': unreferenced local variable
+D:\Dev\Grafico\movimentaX.cpp(82,6): warning C4101: 'linha': unreferenced local variable
+D:\Dev\Grafico\movimentaX.cpp(81,6): warning C4101: 'coluna': unreferenced local variable
+  verificaCaracter.cpp
+  Generating Code...
+  Grafico.vcxproj -> D:\Dev\Grafico\x64\Debug\Grafico.exe
